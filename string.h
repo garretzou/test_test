@@ -3,6 +3,7 @@
 
 //#define _LINUX_STRING_H_
 
+#include <stdiio.h>  // added by garret
 
 #include <linux/compiler.h>	/* for inline */
 #include <linux/types.h>	/* for size_t */
